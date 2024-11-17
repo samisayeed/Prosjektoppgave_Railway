@@ -1,0 +1,98 @@
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (3329552 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<relation id="180932" visible="true" version="24" changeset="146528806" timestamp="2024-01-21T21:29:37Z" user="harahu" uid="10233897">
+<member type="node" ref="503683210" role="stop"/>
+<member type="node" ref="276604953" role="stop"/>
+<member type="node" ref="59438665" role="stop"/>
+<member type="node" ref="444087794" role="stop"/>
+<member type="node" ref="449109988" role="stop"/>
+<member type="node" ref="59438637" role="stop"/>
+<member type="node" ref="2321348187" role="stop"/>
+<member type="node" ref="449109920" role="stop"/>
+<member type="node" ref="449109895" role="stop"/>
+<member type="node" ref="59438448" role="stop"/>
+<member type="node" ref="59438430" role="stop"/>
+<member type="way" ref="38153989" role=""/>
+<member type="way" ref="560101185" role=""/>
+<member type="way" ref="560101194" role=""/>
+<member type="way" ref="425983490" role=""/>
+<member type="way" ref="38178269" role=""/>
+<member type="way" ref="38178268" role=""/>
+<member type="way" ref="38153976" role=""/>
+<member type="way" ref="425983491" role=""/>
+<member type="way" ref="38153971" role=""/>
+<member type="way" ref="425983493" role=""/>
+<member type="way" ref="425983492" role=""/>
+<member type="way" ref="109484000" role=""/>
+<member type="way" ref="109484001" role=""/>
+<member type="way" ref="109483999" role=""/>
+<member type="way" ref="1241761149" role=""/>
+<member type="way" ref="1241761150" role=""/>
+<member type="way" ref="38155471" role=""/>
+<member type="way" ref="38178280" role=""/>
+<member type="way" ref="38178279" role=""/>
+<member type="way" ref="37858684" role=""/>
+<member type="way" ref="38153965" role=""/>
+<member type="way" ref="38153963" role=""/>
+<member type="way" ref="38153977" role=""/>
+<member type="way" ref="38153959" role=""/>
+<member type="way" ref="38153958" role=""/>
+<member type="way" ref="38153962" role=""/>
+<member type="way" ref="560101186" role=""/>
+<member type="way" ref="223215218" role=""/>
+<member type="way" ref="38153974" role=""/>
+<member type="way" ref="38178283" role=""/>
+<member type="way" ref="38178282" role=""/>
+<member type="way" ref="38178284" role=""/>
+<member type="way" ref="904574249" role=""/>
+<member type="way" ref="38159770" role=""/>
+<member type="way" ref="904574248" role=""/>
+<member type="way" ref="38153978" role=""/>
+<member type="way" ref="904574247" role=""/>
+<member type="way" ref="38153979" role=""/>
+<member type="way" ref="223215222" role=""/>
+<member type="way" ref="904574246" role=""/>
+<member type="way" ref="904574245" role=""/>
+<member type="way" ref="223215289" role=""/>
+<member type="way" ref="560101188" role=""/>
+<member type="way" ref="896662153" role=""/>
+<member type="way" ref="38159333" role=""/>
+<member type="way" ref="904567801" role=""/>
+<member type="way" ref="560101190" role=""/>
+<member type="way" ref="38178275" role=""/>
+<member type="way" ref="38178274" role=""/>
+<member type="way" ref="38178277" role=""/>
+<member type="way" ref="38178276" role=""/>
+<member type="way" ref="38180570" role=""/>
+<member type="way" ref="38180569" role=""/>
+<member type="way" ref="38153980" role=""/>
+<member type="way" ref="38153983" role=""/>
+<member type="way" ref="223215220" role=""/>
+<member type="way" ref="38178273" role=""/>
+<member type="way" ref="38178272" role=""/>
+<member type="way" ref="38153982" role=""/>
+<member type="way" ref="38153985" role=""/>
+<member type="way" ref="38178271" role=""/>
+<member type="way" ref="38178270" role=""/>
+<member type="way" ref="38153987" role=""/>
+<member type="way" ref="904603567" role=""/>
+<member type="way" ref="904603566" role=""/>
+<member type="way" ref="38153957" role=""/>
+<member type="way" ref="904603565" role=""/>
+<member type="way" ref="904603560" role=""/>
+<member type="way" ref="904603561" role=""/>
+<member type="way" ref="7961542" role=""/>
+<member type="way" ref="560101192" role=""/>
+<member type="way" ref="560101193" role=""/>
+<tag k="name" v="Flåmsbana"/>
+<tag k="name:en" v="Flåm Railway"/>
+<tag k="operator" v="Flåmsbana"/>
+<tag k="public_transport:version" v="1"/>
+<tag k="ref" v="42"/>
+<tag k="route" v="train"/>
+<tag k="service" v="tourism"/>
+<tag k="type" v="route"/>
+<tag k="website" v="http://www.flaamsbana.no"/>
+<tag k="wikidata" v="Q402957"/>
+<tag k="wikipedia" v="en:Flåm Line"/>
+</relation>
+</osm>
